@@ -27,11 +27,29 @@ public class Media
     public Media(string title, int numRef, int quantity)
     {
         Title = title;
-        this.NumRef = numRef;
+        NumRef = numRef;
         Quantity = quantity;
     }
     
+    public String GetTitle()
+    {
+        return Title;
+    }
     
+    public int GetNumRef()
+    {
+        return NumRef;
+    }
+    
+    public int GetQuantity()
+    {
+        return Quantity;
+    }
+    
+    public void SetQuantity(int quantity)
+    {
+        Quantity = quantity;
+    }
     
     
 }

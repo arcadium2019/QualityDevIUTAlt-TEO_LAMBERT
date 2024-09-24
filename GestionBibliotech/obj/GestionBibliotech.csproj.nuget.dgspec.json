@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teola\\RiderProjects\\TP1\\GestionBibliotech\\GestionBibliotech.csproj": {}
+    "C:\\Users\\teola\\Documents\\GitHub\\QualityDevIUTAlt-TEO_LAMBERT\\GestionBibliotech\\GestionBibliotech.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teola\\RiderProjects\\TP1\\GestionBibliotech\\GestionBibliotech.csproj": {
+    "C:\\Users\\teola\\Documents\\GitHub\\QualityDevIUTAlt-TEO_LAMBERT\\GestionBibliotech\\GestionBibliotech.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teola\\RiderProjects\\TP1\\GestionBibliotech\\GestionBibliotech.csproj",
+        "projectUniqueName": "C:\\Users\\teola\\Documents\\GitHub\\QualityDevIUTAlt-TEO_LAMBERT\\GestionBibliotech\\GestionBibliotech.csproj",
         "projectName": "GestionBibliotech",
-        "projectPath": "C:\\Users\\teola\\RiderProjects\\TP1\\GestionBibliotech\\GestionBibliotech.csproj",
+        "projectPath": "C:\\Users\\teola\\Documents\\GitHub\\QualityDevIUTAlt-TEO_LAMBERT\\GestionBibliotech\\GestionBibliotech.csproj",
         "packagesPath": "C:\\Users\\teola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teola\\RiderProjects\\TP1\\GestionBibliotech\\obj\\",
+        "outputPath": "C:\\Users\\teola\\Documents\\GitHub\\QualityDevIUTAlt-TEO_LAMBERT\\GestionBibliotech\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\teola\\AppData\\Roaming\\NuGet\\NuGet.Config",

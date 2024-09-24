@@ -26,7 +26,7 @@ public class Library
         {
             if (media == Media)
             {
-                
+                media.SetQuantity(media.GetQuantity() - 1);
             }
         }
     }
